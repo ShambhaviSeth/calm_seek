@@ -1,4 +1,4 @@
-# fall24-monday-team5
+# CalmSeek
 
 ## Main Branch
 Build status: [![Build Status](https://app.travis-ci.com/gcivil-nyu-org/fall24-monday-team5.svg?token=gZFLquVHo7ZPGVRcsxqJ&branch=main)](https://app.travis-ci.com/gcivil-nyu-org/fall24-monday-team5)
