@@ -103,7 +103,3 @@ To load this dummy data into your database, use:
 $ python manage.py loaddata appointments/fixtures/dummy_data.json
 ```
 
-## Django Superuser Info
-
-- username: `calmseek-admin`
-- password: ask me (@aryanprasad7)
